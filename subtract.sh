@@ -9,6 +9,6 @@ echo Result is $result
 elif [ $num2 -gt $num1 ]
 then
 result=`expr $num2 - $num1`
-echo Result is $result
+echo Result is $result for after after subtraction
 fi
 
